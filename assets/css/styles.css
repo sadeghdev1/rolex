@@ -525,6 +525,7 @@ body.dark-theme {
   background-color: var(--container-color);
   padding: 1.25rem 0;
   border: 1px solid var(--border-color);
+  border-radius: 2rem;
   text-align: center;
   transition: .3s;
 }
@@ -772,6 +773,7 @@ body.dark-theme {
 /*=============== NEWSLETTER ===============*/
 .newsletter__bg {
   background-color: var(--first-color);
+  border-radius: 2rem;
   padding: 3rem 1.5rem;
   text-align: center;
   row-gap: 2.5rem;
@@ -796,6 +798,7 @@ body.dark-theme {
 .newsletter__input {
   border: none;
   outline: none;
+  border-radius: 1rem;
   background-color: hsl(0, 0%, 94%);
   padding: 1.25rem 1rem;
   color: hsl(0, 0%, 15%);
@@ -858,6 +861,7 @@ body.dark-theme {
   background-color: var(--container-color);
   box-shadow: 0 4px 12px hsla(0, 0%, 20%, .1);
   display: inline-flex;
+  border-radius: 7px;
   padding: .25rem;
   z-index: var(--z-tooltip);
   opacity: .8;
@@ -1151,7 +1155,6 @@ body.dark-theme {
   }
   .products__card {
     padding: 2rem 0;
-    border-radius: 2rem;
   }
   .products__img {
     height: 155px;
@@ -1262,6 +1265,5 @@ body.dark-theme {
 
   .scrollup {
     right: 3rem;
-    border-radius: 7px;
   }
 }
