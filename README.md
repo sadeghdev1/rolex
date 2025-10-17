@@ -23,4 +23,4 @@ This static website template focuses on product showcase design with elegance an
 ## 📌 About
 Developed as a practice project to improve my **UI/UX skills** for e-commerce and product showcase websites.  
 
-🔗 [Live Demo](https://sadeghdev1.github.io/rolex/)
+🔗 [Live Demo](https://sadeghdev1.github.io/rolex)
